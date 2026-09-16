@@ -34,6 +34,8 @@ More colors / 更多配色: [matcha 抹茶](instant-matcha.json), [white 白色]
 
 ## Modern poster printer / 现代打印机 · 9:16 · 18s
 
+![Modern printer animation / 现代打印机动画](previews/printer-modern.gif)
+
 | Printing / 打印 | Finished / 完成 |
 | --- | --- |
 | ![Poster](previews/travel-poster-printing.jpg) | ![Poster ending](previews/travel-poster-ending.jpg) |
@@ -43,6 +45,8 @@ python scripts/cli.py render --config examples/travel-poster.json --output outpu
 ```
 
 ## Retro travel album / 复古打印机 · 9:16 · 36s
+
+![Retro printer animation / 复古打印机动画](previews/printer-retro.gif)
 
 | Printing / 打印 | Snowflake collage / 雪花拼贴 |
 | --- | --- |

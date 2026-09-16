@@ -4,7 +4,13 @@
 
 [English](README.md) · [效果画廊](examples/GALLERY.md) · [完整参数](references/config.zh-CN.md) · [常见问题](references/troubleshooting.zh-CN.md)
 
-![现代打印机效果](examples/previews/instant-blue.gif)
+## 效果预览
+
+| 现代打印机 | 复古打印机 · 雪花拼贴 | 拍立得 |
+| --- | --- | --- |
+| ![现代打印机](examples/previews/printer-modern.gif) | ![复古打印机 · 雪花拼贴](examples/previews/printer-retro.gif) | ![拍立得](examples/previews/instant-blue.gif) |
+
+[查看完整效果画廊与运行示例 →](examples/GALLERY.md)
 
 ## 能做什么
 

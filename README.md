@@ -4,7 +4,13 @@
 
 [中文说明](README.zh-CN.md) · [Gallery](examples/GALLERY.md) · [Full configuration](references/config.md) · [Troubleshooting](references/troubleshooting.md)
 
-![Modern printer preview](examples/previews/instant-blue.gif)
+## Preview gallery
+
+| Modern printer | Retro printer · snowflake collage | Instant camera |
+| --- | --- | --- |
+| ![Modern printer](examples/previews/printer-modern.gif) | ![Retro printer · snowflake collage](examples/previews/printer-retro.gif) | ![Instant camera](examples/previews/instant-blue.gif) |
+
+[View all effects and runnable examples →](examples/GALLERY.md)
 
 ## What you can make
 
