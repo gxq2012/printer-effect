@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "inputs": [
+    "media/travel/aershan-itinerary.png",
+    "media/travel/autumn-river.jpg",
+    "media/travel/riverside-cow.jpg",
+    "media/travel/autumn-lake.jpg",
+    "media/travel/autumn-hills.jpg"
+  ],
+  "style": "retro",
+  "color": "cream",
+  "aspect_ratio": "9:16",
+  "duration": 36,
+  "ending": "snowflake",
+  "feed": "smooth"
+}

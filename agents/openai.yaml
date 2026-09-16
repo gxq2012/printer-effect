@@ -1,0 +1,6 @@
+interface:
+  display_name: "打印机效果"
+  short_description: "拍立得拍摄显影，现代或复古打印机，支持飞出展示与雪花拼贴"
+  default_prompt: "使用 $printer-effect 将我提供的图片或视频制作成打印机效果，内容居中占宽90%，支持按我的要求调整尺寸。"
+policy:
+  allow_implicit_invocation: true

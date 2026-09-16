@@ -1,0 +1,10 @@
+{
+  "inputs": [
+    "media/card-01.png"
+  ],
+  "style": "instant",
+  "color": "ivory",
+  "aspect_ratio": "9:16",
+  "duration": 18,
+  "ending": "flyout"
+}

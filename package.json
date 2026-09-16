@@ -1,0 +1,9 @@
+{
+  "name": "printer-effect-skill",
+  "version": "1.3.1",
+  "private": true,
+  "description": "Local printer-effect animation skill and CLI",
+  "dependencies": {
+    "gsap": "3.14.2"
+  }
+}

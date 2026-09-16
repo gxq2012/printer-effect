@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "inputs": [
+    "media/travel/gannan-itinerary.png"
+  ],
+  "style": "modern",
+  "color": "blue",
+  "aspect_ratio": "9:16",
+  "duration": 18,
+  "ending": "flyout",
+  "feed": "smooth"
+}

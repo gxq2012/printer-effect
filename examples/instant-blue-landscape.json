@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "inputs": [
+    "media/travel/mountain-village.jpg"
+  ],
+  "style": "instant",
+  "color": "light-blue",
+  "aspect_ratio": "4:3",
+  "camera_width": 0.9,
+  "duration": 18,
+  "ending": "flyout",
+  "feed": "smooth"
+}
